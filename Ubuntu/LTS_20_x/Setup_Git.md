@@ -15,6 +15,24 @@ Install as follows:
     $ git --version
 
 
+## Configure the user
+
+To configure the user do the following:
+
+> Setup the git user name
+
+    $ git config --global user.name "<Your Name>"
+
+> Setup the git user email
+
+    $ git config --global user.email "<Your Email>"
+
+
+> View all configuration items
+
+    $ git config --list
+
+
 That is all!!!
 
 
