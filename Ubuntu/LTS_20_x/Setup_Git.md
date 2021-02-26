@@ -7,9 +7,11 @@ Install as follows:
     $ sudo apt update
 
 > Install Git from system's repository
+
     $ sudo app install git
 
 > Verify the git version
+
     $ git --version
 
 
